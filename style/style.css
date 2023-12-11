@@ -14,4 +14,9 @@ body {
   color: white;
   border-radius: 5px;
   border: none;
+}
+#btn:hover {
+  background-color: aliceblue;
+  color: black;
+  transition: 0.6s;
 }/*# sourceMappingURL=style.css.map */
