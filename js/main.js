@@ -1,5 +1,4 @@
 var btn = document.getElementById('btn');
-var btn = document.getElementById('btn');
 
 function increaseSize() {
     btn.style.fontSize = '30px';
